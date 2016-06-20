@@ -7,4 +7,4 @@
 - Hickory Dickory Dock
 
 ### Natural Beauty
-- Lake Hickory
+- Lake Hickory - Great lake for fishing and skiing.  Nice long lake.
