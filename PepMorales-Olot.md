@@ -8,3 +8,4 @@ Qui no carda a Olot no carda enlloc!
 
 
 ### Natural Beauty
+Mushroom (bolets) "hunting"
