@@ -6,3 +6,6 @@
 ### Attractions
 
 ### Natural Beauty
+
+### Weather
+Its' Northern Ireland so it's usually lousy
