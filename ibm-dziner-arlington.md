@@ -1,7 +1,7 @@
 #Arlington, MA
 
 ### Restaurants
-- Za pizzeria
+- Za pizzeria -- especially good, funky combinations, with locally sourced ingredients :pizza:
 - Szechuan's Dumpling
 - Quebrada Bakery
 
