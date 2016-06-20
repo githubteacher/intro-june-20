@@ -5,7 +5,8 @@
 - Portillo's
 
 ### Attractions
-- Millenium Park
+- Site-seeing at Millenium Park
+- Shopping along the Magnificent Mile
 
 ### Natural Spaces
 - Lake Michigan
