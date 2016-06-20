@@ -1,8 +1,7 @@
 # New delhi
 
-## resturants
+## resturants and attractions
 - ITC MAURYA
-### Attractions
 - monuments constructed  during period of mughals
 
 #### Natural Beauty
