@@ -8,4 +8,4 @@
 - Weasleys' Wizarding Weezes
 
 ### Natural Beauty
-- Hogsmeade Cemetary
+- Hogsmeade Cemetery
