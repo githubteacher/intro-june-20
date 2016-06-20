@@ -3,7 +3,7 @@
 ###Restaurants
 - Chuy's
 - Torchy's
-- Uchi
+- Uchi (Sushi)
 
 ###Attractions
 
