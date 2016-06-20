@@ -2,6 +2,7 @@
 
 ###Restaurants
 - Flame
+- Mollys Yard
 
 ###Attractions
 - Guinness
