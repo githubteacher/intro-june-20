@@ -7,6 +7,8 @@
 - Lenard's Bakery
 
 ### Attractions
+- Pearl Harbor
+- Luaus
 
 ### Natural Beauty 
 - Manoa Falls 
