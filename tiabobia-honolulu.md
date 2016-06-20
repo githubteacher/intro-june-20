@@ -1,10 +1,10 @@
 # Honolulu, Hawaii
 
 ### Restaurants
-- Giovanni's Shrimp Truck
-- Kimos
-- Ryan's Grill 
-- Lenard's Bakery
+- Giovanni's Shrimp Truck 
+- Kimos (Hawaiian-Style Breakfast)
+- Ryan's Grill (Brewry) 
+- Lenard's Bakery 
 
 ### Attractions
 - Pearl Harbor
