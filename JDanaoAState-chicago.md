@@ -7,4 +7,7 @@
 
 ### Attractions
 
-### Natural Beuty
+### Natural Beauty
+- A trip to Navy Pier
+- Maggie Daley park is great for kids
+- 
