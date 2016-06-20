@@ -6,6 +6,7 @@
 
 ### Attractions
 - Weasleys' Wizarding Weezes
+- Ollivanders Otherworldly Outlet (forthcoming)
 
 ### Natural Beauty
 - Hogsmeade Cemetery
