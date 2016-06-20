@@ -5,6 +5,7 @@
 - Hogs Head
 
 ### Attractions
-
+- Weasleys' Wizarding Weezes
 
 ### Natural Beauty
+
