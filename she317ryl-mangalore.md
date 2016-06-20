@@ -8,3 +8,5 @@
 - MIT
 
 ### Weather
+- Monsoon: June -September
+- Summer: March -May
