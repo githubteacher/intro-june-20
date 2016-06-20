@@ -7,3 +7,7 @@
 ### Attrations
 
 ### Natrual Beauty
+
+### Weather
+
+Pretty hot in Colorado today.  90+
