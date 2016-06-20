@@ -5,7 +5,9 @@
 
 ### Attractions
 - Fishing
+- sailing
 - Water sports
+
 
 ### Natural Beauty
 - Woodlands
