@@ -7,3 +7,5 @@
 ### Attractions
 
 ### Natural Beauty
+- Mt Diablo
+- Lafayette Reservoir
