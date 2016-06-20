@@ -1,7 +1,7 @@
 # Cary, NC
 
 ### Restaurants
-- La Farm
+- La Farm Bakery
 - An's
 - Tribeca Tavern
 
