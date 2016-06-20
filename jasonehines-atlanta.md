@@ -7,3 +7,7 @@
 ### Atractions
 
 ### Natural Beauty
+
+### June Weather
+- Hot
+- Occasional Rain
