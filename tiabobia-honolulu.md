@@ -9,3 +9,6 @@
 ### Attractions
 
 ### Natural Beauty 
+- Manoa Falls 
+- Waimea Bay & Falls
+- Sandy Beach
