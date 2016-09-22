@@ -1,4 +1,4 @@
-# Welcome to Introduction to GitHub!
+# Welcome to Introduction to GitHub!  
 
 ### Facilitators
 - On the Mic:
